@@ -63,6 +63,16 @@ body {
     }
 }
 
+#share-main-section {
+    .fa {
+        font-size: $icon-font-size;
+        background: #333;
+        color: #fff;
+        padding: 4px;
+        border-radius: 5px;
+    }
+}
+
 @media(max-width: 768) {
     #home-section h1 {
         font-size: 36px;

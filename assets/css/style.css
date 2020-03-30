@@ -41,6 +41,13 @@ body {
   padding: 4px;
   border-radius: 5px; }
 
+#share-main-section .fa {
+  font-size: 30px;
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px; }
+
 @media (max-width: 768) {
   #home-section h1 {
     font-size: 36px; } }
